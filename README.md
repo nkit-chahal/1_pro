@@ -1,2 +1,3 @@
 # Students Marks Predictions till deployment on Heroku
-Regression model with 95% accuracy 
+Regression model 
+![Uploading image.png…]()
